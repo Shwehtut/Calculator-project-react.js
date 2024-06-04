@@ -1,0 +1,29 @@
+.btn-container{
+    width: 400px;
+}
+.btn-group{
+    display: flex;
+
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    border: none;
+    transition: .5s;
+}
+.btn-long{
+    width: 400px;
+    background-color: orangered;
+}
+.btn-codeLab{
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    background-color: #363434;
+    color: white;
+}
+.btn-upper{
+    width: 100px;
+    color: orange;
+}
